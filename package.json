@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "name": "Axelia Launcher",
+  "version": "0.0.0-DEVLOPPEMENT VERSION",
+  "productName": "Axelia Launcher",
+  "description": "Launcheur Minecraft de Axelia",
+  "author": "Nicolas et Daniel Dscalzi",
+  "license": "Le Projet appartient à Daniel Scalzi je n'ai que utiliser son projet comme Marquée Autorisée sous quelques Conditions ",
+  "homepage": "https://github.com/NicolasLeSupIVS/Axelia-Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/NicolasLeSupIVS/Axelia-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/NicolasLeSupIVS/Axelia-Launcher.git"
   }
 }
